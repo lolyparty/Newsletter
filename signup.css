@@ -17,6 +17,8 @@ body{
     border-radius:20px;
     border:none;
     background:linear-gradient(90deg,#2659decc, #17337cb3);
+    box-shadow:4px 4px 10px 3px #6b6b6b;
+
 }
 
 @media screen and (max-width: 400px){
